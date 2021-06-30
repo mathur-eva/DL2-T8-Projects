@@ -21,6 +21,8 @@
   6. cv2
 ## Brief of project:
   A recommender system leverages user data to better understand how they interact with items. Items here could be books in a book store, movies on a streaming platform, clothes in an online marketplace, or even friends on Facebook. This project will have a book recommender application that can suggest books to users based on their history and preferences. Using the data stored in the dataset we have unique users whose past preferences of books will recommend them new books to enjoy and read!
+## Important:
+   Using Tensorflow Embedding Projector, we can graphically represent high dimensional embeddings. This can be helpful in visualizing, examining, and understanding your embedding layers. 
   
     
 
